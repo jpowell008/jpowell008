@@ -14,4 +14,4 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/johnathan
+[linkedin]: https://linkedin.com/in/johnathan-p-8b46533b0/?isSelfProfile=true
